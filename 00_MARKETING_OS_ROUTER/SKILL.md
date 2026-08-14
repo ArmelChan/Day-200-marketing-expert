@@ -9,7 +9,7 @@ ID: 00_MARKETING_OS_ROUTER
 
 ## Trigger Condition
 
-任何進入 KARYLEE Marketing OS 嘅新任務，預設先由本 Skill 處理。
+任何進入 Marketing OS 嘅新任務，預設先由本 Skill 處理。
 
 特別包括：
 
