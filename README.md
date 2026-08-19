@@ -11,36 +11,44 @@
 設計邏輯：從了解產品開始，經過市場研究、策略制定、創意執行，到最終輸出可交付成果並持續優化，形成一個完整的工作閉環。
 
 ---
-## 🚀 新手上路 / New User Onboarding
+## ⚡ 新手上路 / New User Onboarding <sup>`cyberlink`</sup>
 
 > 第一次使用這個 Repo？從這裡開始 👇 / First time here? Start below 👇
 
+<div align="center">
+
+[![01_BEGINNER](https://img.shields.io/badge/01-%E6%88%91%E6%98%AF%E6%96%B0%E6%89%8B_BEGINNER-00F5FF?style=for-the-badge&logo=rocket&logoColor=black&labelColor=0D1117)](./19_ATTACHMENTS/New_User_Guide.md)
+[![02_AI_TOOLS](https://img.shields.io/badge/02-AI_%E5%B7%A5%E5%85%B7_PROMPT-FF00E5?style=for-the-badge&logo=openai&logoColor=black&labelColor=0D1117)](./19_ATTACHMENTS/Prompt_Engineering_Guide.md)
+[![03_FEEDBACK](https://img.shields.io/badge/03-%E6%8F%90%E4%BE%9B%E6%84%8F%E8%A6%8B_FEEDBACK-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](../../issues/new/choose)
+
+</div>
+
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" style="border:1px solid #00F5FF;">
 
-### 1️⃣ 我是新手
-**Beginner**
+🔹 **[01] 我是新手**
+`> BEGINNER.init`
 
 先看 [新手指南](./19_ATTACHMENTS/New_User_Guide.md)，了解如何從模組 00 開始使用整套系統。
 
 Start with the [New User Guide](./19_ATTACHMENTS/New_User_Guide.md) to learn how to begin from Module 00.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" style="border:1px solid #FF00E5;">
 
-### 2️⃣ 我要用 AI 工具
-**Using with LLMs**
+🔹 **[02] 我要用 AI 工具**
+`> LLM.connect`
 
 查看 [Prompt Engineering 指南](./19_ATTACHMENTS/Prompt_Engineering_Guide.md) 及 [LLM 輸出格式規範](./19_ATTACHMENTS/LLM_Output_Format.md)。
 
 See the [Prompt Engineering Guide](./19_ATTACHMENTS/Prompt_Engineering_Guide.md) and [LLM Output Format](./19_ATTACHMENTS/LLM_Output_Format.md).
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" style="border:1px solid #39FF14;">
 
-### 3️⃣ 我要提供意見
-**Give Feedback**
+🔹 **[03] 我要提供意見**
+`> FEEDBACK.send`
 
 有建議、發現問題或想要新模組？歡迎 [提交 Issue](../../issues/new/choose) 或 [參與討論](../../discussions)。
 
@@ -50,17 +58,30 @@ Have a suggestion, found an issue, or want a new module? [Open an Issue](../../i
 </tr>
 </table>
 
-### 💬 快速回饋 / Quick Feedback
+<div align="center">
+
+`[ SYSTEM STATUS: ONLINE ]` • `[ MODULES: 18/18 ]` • `[ LANG: EN / 中 ]`
+
+</div>
+
+---
+
+### 💠 快速回饋結點 / Quick Feedback Link
 
 這個系統對你有幫助嗎？花 10 秒告訴我們：
 Did this system help you? Tell us in 10 seconds:
 
-- 👍 [有幫助 / Helpful](../../issues/new?title=Feedback:+Helpful&body=這套系統對我有幫助，因為...)
-- 👎 [需要改進 / Needs Improvement](../../issues/new?title=Feedback:+Needs+Improvement&body=我認為可以改進的地方是...)
-- 💡 [我有新想法 / I have an idea](../../issues/new?title=Feature+Request&body=我建議新增...)
-- ⭐ 覺得有用？請幫忙 Star 這個 Repo！/ If useful, please Star this repo!
+<div align="center">
+
+[![Helpful](https://img.shields.io/badge/%F0%9F%91%8D_%E6%9C%89%E5%B9%AB%E5%8A%A9-HELPFUL-00F5FF?style=flat-square&labelColor=0D1117)](../../issues/new?title=Feedback:+Helpful&body=這套系統對我有幫助，因為...)
+[![Needs Improvement](https://img.shields.io/badge/%F0%9F%91%8E_%E9%9C%80%E8%A6%81%E6%94%B9%E9%80%B2-IMPROVE-FF00E5?style=flat-square&labelColor=0D1117)](../../issues/new?title=Feedback:+Needs+Improvement&body=我認為可以改進的地方是...)
+[![New Idea](https://img.shields.io/badge/%F0%9F%92%A1_%E6%96%B0%E6%83%B3%E6%B3%95-IDEA-39FF14?style=flat-square&labelColor=0D1117)](../../issues/new?title=Feature+Request&body=我建議新增...)
+[![Star](https://img.shields.io/badge/%E2%AD%90_STAR_THIS_REPO-FFD700?style=flat-square&labelColor=0D1117)](../../stargazers)
+
+</div>
 
 ---
+
 
 
 ## 模組總覽
