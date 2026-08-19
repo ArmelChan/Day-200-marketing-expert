@@ -1,0 +1,77 @@
+=====================================================
+新手用家手冊 / NEW USER GUIDE
+Day-200 Marketing OS
+中英對照 Bilingual (Chinese / English)
+=====================================================
+
+一、這是什麼？ / What is this?
+-----------------------------------------------------
+[中文]
+這是一套結構化的市場營銷思維框架，包含 17 個核心模組，
+從產品分析到輸出交付。適合行銷新手到高階策略師使用。
+
+[English]
+This is a structured marketing thinking framework consisting of
+17 core modules, covering everything from product analysis to
+final output delivery. Suitable for beginners to advanced
+strategists.
+
+二、如何開始？ / How to Get Started?
+-----------------------------------------------------
+[中文]
+1. 先閱讀 00_MARKETING_OS_ROUTER，了解自己當前需要解決什麼問題
+2. 根據 Router 指引，進入對應的模組資料夾
+3. 閱讀該模組的 SKILL.md，從「初學者理解」開始
+4. 實践後再回頭閱讀「中階」與「高階」部分，深化應用
+
+[English]
+1. Start by reading 00_MARKETING_OS_ROUTER to identify your
+   current task type
+2. Follow the Router's guidance to the corresponding module folder
+3. Read that module's SKILL.md, starting with the "Beginner
+   Understanding" section
+4. After practicing, revisit the "Intermediate" and "Advanced"
+   sections to deepen application
+
+三、模組結構簡介 / Module Structure Overview
+-----------------------------------------------------
+[中文]
+每個模組都包含三層理解：
+- 初學者理解：用生活化比喻解釋概念
+- 中階理解：提供實用框架與步驟
+- 高階理解：探討戰略性應用與行業最佳實踐
+
+[English]
+Each module contains three layers of understanding:
+- Beginner Understanding: Uses everyday analogies to explain concepts
+- Intermediate Understanding: Provides practical frameworks and steps
+- Advanced Understanding: Explores strategic applications and
+  industry best practices
+
+四、常見問題 / FAQ
+-----------------------------------------------------
+Q1 [中文] 我不是專業行銷人員，可以使用嗎？
+A1 可以。每個模組都從「初學者理解」開始，不需要先行知識。
+
+Q1 [English] I'm not a professional marketer, can I still use this?
+A1 Yes. Each module starts with a "Beginner Understanding"
+   section that requires no prior knowledge.
+
+Q2 [中文] 模組需要按順序閱讀嗎？
+A2 不一定。可以透過 00_ROUTER 找到當下最需要的模組直接閱讀。
+
+Q2 [English] Do I need to read modules in order?
+A2 Not necessarily. Use 00_ROUTER to find and jump directly to
+   the module you need most right now.
+
+五、聯絡與支援 / Contact & Support
+-----------------------------------------------------
+如有問題或建議，請透過 GitHub Issues 或聯絡儲存庫擁有者 ArmelChan。
+For questions or suggestions, please use GitHub Issues or
+contact repository owner ArmelChan.
+
+=====================================================
+本文件為 Day-200 Marketing OS 附件之一，供自由下載參考。
+This document is one of the Day-200 Marketing OS attachments,
+free to download for reference.
+=====================================================
