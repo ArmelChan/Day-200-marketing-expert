@@ -11,6 +11,57 @@
 設計邏輯：從了解產品開始，經過市場研究、策略制定、創意執行，到最終輸出可交付成果並持續優化，形成一個完整的工作閉環。
 
 ---
+## 🚀 新手上路 / New User Onboarding
+
+> 第一次使用這個 Repo？從這裡開始 👇 / First time here? Start below 👇
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 1️⃣ 我是新手
+**Beginner**
+
+先看 [新手指南](./19_ATTACHMENTS/New_User_Guide.md)，了解如何從模組 00 開始使用整套系統。
+
+Start with the [New User Guide](./19_ATTACHMENTS/New_User_Guide.md) to learn how to begin from Module 00.
+
+</td>
+<td width="33%" align="center">
+
+### 2️⃣ 我要用 AI 工具
+**Using with LLMs**
+
+查看 [Prompt Engineering 指南](./19_ATTACHMENTS/Prompt_Engineering_Guide.md) 及 [LLM 輸出格式規範](./19_ATTACHMENTS/LLM_Output_Format.md)。
+
+See the [Prompt Engineering Guide](./19_ATTACHMENTS/Prompt_Engineering_Guide.md) and [LLM Output Format](./19_ATTACHMENTS/LLM_Output_Format.md).
+
+</td>
+<td width="33%" align="center">
+
+### 3️⃣ 我要提供意見
+**Give Feedback**
+
+有建議、發現問題或想要新模組？歡迎 [提交 Issue](../../issues/new/choose) 或 [參與討論](../../discussions)。
+
+Have a suggestion, found an issue, or want a new module? [Open an Issue](../../issues/new/choose) or [join the Discussion](../../discussions).
+
+</td>
+</tr>
+</table>
+
+### 💬 快速回饋 / Quick Feedback
+
+這個系統對你有幫助嗎？花 10 秒告訴我們：
+Did this system help you? Tell us in 10 seconds:
+
+- 👍 [有幫助 / Helpful](../../issues/new?title=Feedback:+Helpful&body=這套系統對我有幫助，因為...)
+- 👎 [需要改進 / Needs Improvement](../../issues/new?title=Feedback:+Needs+Improvement&body=我認為可以改進的地方是...)
+- 💡 [我有新想法 / I have an idea](../../issues/new?title=Feature+Request&body=我建議新增...)
+- ⭐ 覺得有用？請幫忙 Star 這個 Repo！/ If useful, please Star this repo!
+
+---
+
 
 ## 模組總覽
 
