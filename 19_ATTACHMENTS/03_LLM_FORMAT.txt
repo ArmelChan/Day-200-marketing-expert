@@ -1,0 +1,73 @@
+=====================================================
+LLM 輸出格式指南 / LLM OUTPUT FORMAT GUIDE
+Day-200 Marketing OS
+中英對照 Bilingual (Chinese / English)
+=====================================================
+
+一、為什麼格式重要？ / Why Format Matters?
+-----------------------------------------------------
+[中文]
+明確的輸出格式能確保 AI 回應一致、易於解析，
+並方便直接套入實際工作流程（如自動化腳本、報告模板）。
+
+[English]
+Clear output formatting ensures consistent, parseable AI
+responses and allows direct integration into real workflows
+(such as automation scripts or report templates).
+
+二、常用輸出格式類型 / Common Output Formats
+-----------------------------------------------------
+[中文]
+1. JSON 格式：適合程式自動處理，結構固定
+2. Markdown 表格：適合人類閱讀、比較型資料
+3. 編號清單：適合步驟性、流程性內容
+4. 自由文本：適合創意文案、說明性內容
+
+[English]
+1. JSON Format: Suitable for automated program processing,
+   fixed structure
+2. Markdown Tables: Suitable for human reading, comparative data
+3. Numbered Lists: Suitable for step-by-step or process content
+4. Free Text: Suitable for creative copy, explanatory content
+
+三、JSON 格式範例 / JSON Format Example
+-----------------------------------------------------
+{
+  "module": "02_PRODUCT_ANALYSIS",
+  "summary": "產品分析摘要",
+  "key_points": ["重點1", "重點2", "重點3"],
+  "recommendation": "建議行動"
+}
+
+四、如何在 Prompt 中指定格式？ / How to Specify Format in Prompt?
+-----------------------------------------------------
+[中文]
+方法一：直接說明「請以 JSON 格式輸出，包含以下欄位…」
+方法二：提供一個空白模板讓模型填入
+方法三：提供一個已完成的範例讓模型仏效結構
+
+[English]
+Method 1: Directly state "Please output in JSON format,
+including the following fields..."
+Method 2: Provide a blank template for the model to fill in
+Method 3: Provide a completed example for the model to mimic
+the structure
+
+五、常見錯誤 / Common Mistakes
+-----------------------------------------------------
+[中文]
+- 未指定格式，導致每次輸出不一致
+- 格式要求過於複雜，導致模型錯誤率上升
+- 沒有驗證輸出是否符合預期結構（如 JSON 是否可解析）
+
+[English]
+- Not specifying format, leading to inconsistent outputs each time
+- Overly complex format requirements, increasing model error rate
+- Not validating whether output matches expected structure
+  (e.g., whether JSON is parseable)
+
+=====================================================
+本文件為 Day-200 Marketing OS 附件之一，供自由下載參考。
+This document is one of the Day-200 Marketing OS attachments,
+free to download for reference.
+=====================================================
