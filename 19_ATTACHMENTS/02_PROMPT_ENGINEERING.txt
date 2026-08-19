@@ -1,0 +1,77 @@
+=====================================================
+指令工程指南 / PROMPT ENGINEERING GUIDE
+Day-200 Marketing OS
+中英對照 Bilingual (Chinese / English)
+=====================================================
+
+一、什麼是指令工程？ / What is Prompt Engineering?
+-----------------------------------------------------
+[中文]
+指令工程是設計、優化與結構化輸入文字（Prompt），
+以引導 AI 語言模型（LLM）產出最符合需求的輸出結果的過程。
+
+[English]
+Prompt engineering is the process of designing, refining, and
+structuring input text (prompts) to guide AI language models
+(LLMs) toward producing the most relevant and accurate output.
+
+二、核心原則 / Core Principles
+-----------------------------------------------------
+[中文]
+1. 明確性：明確說明任務、角色、輸出格式
+2. 上下文：提供足夠背景資訊讓模型理解情境
+3. 結構化：使用步驟、标點符號、標題分隔不同部分
+4. 範例（Few-shot）：提供 1-3 個範例讓模型參考格式
+5. 迭代優化：根據輸出結果不斷調整 Prompt 措詞
+
+[English]
+1. Clarity: Clearly state the task, role, and output format
+2. Context: Provide sufficient background information for the
+   model to understand the situation
+3. Structure: Use steps, bullet points, and headers to separate
+   different sections
+4. Few-shot Examples: Provide 1-3 examples for the model to
+   reference the format
+5. Iterative Refinement: Continuously adjust prompt wording based
+   on output results
+
+三、常用框架 / Common Frameworks
+-----------------------------------------------------
+[中文]
+RTF 框架：Role（角色）+ Task（任務）+ Format（格式）
+例如：「你是一位行銷專家（Role），請分析這個產品的目標受眾
+（Task），以表格形式輸出（Format）。」
+
+COT 框架（Chain-of-Thought）：要求模型逐步推理，
+提升邏輯推理的準確度。
+
+[English]
+RTF Framework: Role + Task + Format
+Example: "You are a marketing expert (Role), analyze this
+product's target audience (Task), and output in table format
+(Format)."
+
+COT Framework (Chain-of-Thought): Ask the model to reason
+step-by-step, improving accuracy of logical reasoning.
+
+四、實用技巧 / Practical Tips
+-----------------------------------------------------
+[中文]
+- 避免模糊用語，用具體指令取代模糊描述
+- 需要長篇輸出時，可要求分段或分步驟輸出
+- 可設定「不要做什麼」來限制不需要的內容
+- 對於複雜任務，先拆解成多個小任務再分別指令
+
+[English]
+- Avoid vague language; use specific instructions instead of
+  ambiguous descriptions
+- For long outputs, request segmented or step-by-step output
+- Set "what NOT to do" constraints to limit unwanted content
+- For complex tasks, break them into smaller sub-tasks with
+  separate instructions
+
+=====================================================
+本文件為 Day-200 Marketing OS 附件之一，供自由下載參考。
+This document is one of the Day-200 Marketing OS attachments,
+free to download for reference.
+=====================================================
