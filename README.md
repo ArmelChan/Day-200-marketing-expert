@@ -1,4 +1,4 @@
-# Day-200 Marketing Expert
+# Marketing Expert PROMPT-DECK
 
 > 一套完整的市場營銷操作系統，涵蓋 18 個核心模組，由產品分析到輸出交付及優化計劃，適合初學者到高階策略師使用
 
